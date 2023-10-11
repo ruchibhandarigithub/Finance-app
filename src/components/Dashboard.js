@@ -203,7 +203,7 @@ const Dashboard = () => {
     boxShadow: "0px 0px 30px 8px rgba(227, 227, 227, 0.75)",
     margin: "2rem",
     borderRadius: "0.5rem",
-    minWidth: "400px",
+    minWidth: "350px",
     flex: 1,
   };
 
